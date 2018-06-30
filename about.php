@@ -18,9 +18,7 @@
                         <div class="tr-blog blog-two">
                             <div class="tr-post">
                                 <div class="entry-header">
-                                    <div class="entry-thumbnail">
-                                        <img src="images/blog/golden-raisins.jpg" alt="Image" class="img-fluid">
-                                    </div>
+                                    
                                 </div>                               
                                 <div class="entry-content">
                                                                       
@@ -118,10 +116,10 @@
                                 <div class="widget widget_categories">
                                     <h3 class="widget_title">Productos</h3>
                                     <ul>
-                                        <li><a href="#">Pasa Rubia</a></li>
-                                        <li><a href="#">Pasa Morena</a></li>
-                                        <li><a href="#">Nueces</a></li>
-                                        <li><a href="#">Huesillo</a></li>
+                                        <li><a href="pasa-rubia.php">Pasa Rubia</a></li>
+                                        <li><a href="pasa-morena.php">Pasa Morena</a></li>
+                                        <li><a href="nueces.php">Nueces</a></li>
+                                        <li><a href="huesillo.php">Huesillo</a></li>
                                     </ul>
                                 </div><!-- /.widget -->
 

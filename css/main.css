@@ -41,6 +41,22 @@
 
 */
 
+
+/*main logo*/
+
+ .main-logo{
+ 	max-height: 60px;
+ }
+
+.footer-logo{
+ 	max-height: 50px;
+ }
+
+
+.responsive-logo{
+ 	max-height: 50px;
+ }
+
 /* Global */
 
 html,
@@ -65,20 +81,20 @@ a {
 
 a:hover,
 a:focus {
-	color:#80b435;
+	color:#f6931e;
 }
 
 .btn.btn-primary {
 	font-size: 18px;
 	font-weight: 700;
 	padding: 15px 35px;
-	border: 1px solid #80b435;
-	background-color: #80b435;
+	border: 1px solid #f6931e;
+	background-color: #f6931e;
 	text-transform: capitalize;
 }
 
 .btn.btn-primary:hover{
-	color: #80b435;
+	color: #f6931e;
 	border-radius: 30px;
 	background-color: transparent;
 }
@@ -136,7 +152,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .form-control:focus {
-	border-color: #80b435;
+	border-color: #f6931e;
 }
 
 .main-content {
@@ -168,7 +184,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .topbar-content .float-left .number{
-	color: #80b435;
+	color: #f6931e;
 }
 
 .topbar-content a {
@@ -176,7 +192,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .topbar-content a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 /* topbar-two */
@@ -221,7 +237,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .topbar-two .select-option select option {
-	color: #80b435;
+	color: #f6931e;
 }
 
 /* Tr-breadcrumb */
@@ -284,7 +300,7 @@ select.form-control:not([size]):not([multiple]) {
 .navbar-nav .open>.nav-link,
 .navbar-nav .nav-link:focus, 
 .navbar-nav .nav-link:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .navbar .navbar-toggle .icon-bar {
@@ -299,7 +315,7 @@ select.form-control:not([size]):not([multiple]) {
 	cursor: pointer;
 	top: 15px;
 	padding: 3px 6px;
-	border: 1px solid #80b435;
+	border: 1px solid #f6931e;
 }
 
 .navbar-toggler-icon {
@@ -311,7 +327,7 @@ select.form-control:not([size]):not([multiple]) {
 	position: absolute;
 	top: 2px;
 	left: 5px;
-	color: #80b435;
+	color: #f6931e;
 	content: "\f0c9";
 	font-family: "fontawesome";
 	font-size: 20px;
@@ -405,7 +421,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .tr-menu .float-right li i:hover,
 .tr-menu .float-right li .icon:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .search-form {
@@ -493,7 +509,7 @@ select.form-control:not([size]):not([multiple]) {
     font-size: 10px;
     border-radius: 100%;
     line-height: 6px;
-    background-color: #80b435;
+    background-color: #f6931e;
 }
 
 .hompage-2 .cart-number {
@@ -732,7 +748,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .slider-two .btn.btn-primary {
-	color: #80b435;
+	color: #f6931e;
 	background-color: #fff;
 	border-color: #fff;
 }
@@ -820,7 +836,7 @@ select.form-control:not([size]):not([multiple]) {
 .farmfood ul li .icon,
 .farmfood-two .farmfood .icon {
 	font-size: 45px;
-	color: #80b435;
+	color: #f6931e;
 }
 
 .farmfood ul li:hover .icon,
@@ -905,7 +921,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .product .price {
-	color: #80b435;
+	color: #f6931e;
 	font-size: 16px;
 }
 
@@ -972,7 +988,7 @@ select.form-control:not([size]):not([multiple]) {
 .product-icon i,
 .product-icon .icon {
 	font-size: 20px;
-	color: #80b435;
+	color: #f6931e;
 	width: 55px;
 	height: 55px;
 	line-height: 55px;
@@ -998,7 +1014,7 @@ select.form-control:not([size]):not([multiple]) {
 .product-icon i:hover,
 .product-icon .icon:hover {
 	color: #fff;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 /* Products-two */
@@ -1038,7 +1054,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .slick-dots li:hover,
 .slick-dots li.slick-active {
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .slick-dots li button {
@@ -1062,7 +1078,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .cta-info h2 {
-	color: #80b435;
+	color: #f6931e;
 	font-size: 60px;
 }
 
@@ -1083,7 +1099,7 @@ select.form-control:not([size]):not([multiple]) {
 	padding:0 25px;
 	font-weight: 700;
 	font-size: 32px;
-	color: #80b435;
+	color: #f6931e;
 	text-align: center;
 	border-right: 1px solid #e9e9e9;
 }
@@ -1137,7 +1153,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .cta-two .btn.btn-primary {
-	color: #80b435;
+	color: #f6931e;
 	border-color: #fff;
 	background-color: #fff;
 }
@@ -1206,7 +1222,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .entry-content a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .entry-meta li:after {
@@ -1276,7 +1292,7 @@ select.form-control:not([size]):not([multiple]) {
 	padding: 8px;
 	line-height: 30px;
 	text-transform: uppercase;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .post-time span span {
@@ -1303,7 +1319,7 @@ select.form-control:not([size]):not([multiple]) {
 	font-size: 60px;
 	display: block;
 	font-weight: 300;
-	color: #80b435;
+	color: #f6931e;
 }
 
 .blockquote {
@@ -1313,7 +1329,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .blockquote span {
-	color: #80b435;
+	color: #f6931e;
 	font-size: 30px;
 }
 
@@ -1356,7 +1372,7 @@ blockquote {
 }
 
 .blog-social li:nth-child(1) a {
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .blog-social li:nth-child(2) a {
@@ -1408,7 +1424,7 @@ blockquote {
 }
 
 .author-title a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .tr-follow,
@@ -1420,7 +1436,7 @@ blockquote {
 
 .tr-follow {
 	float: right;
-	color: #80b435;
+	color: #f6931e;
 	font-weight: 700;
 	position: relative;
 	margin-top: 30px;
@@ -1501,17 +1517,17 @@ blockquote {
 }
 
 .comment-box .comment-meta a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .widget .post-date,
 .widget.widget_recent_entries a:hover {
-	color: #80b435;
+	color: #f6931e;
 } 
 
 .tagcloud a:hover {
 	color: #fff;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 
@@ -1688,7 +1704,7 @@ img.mfp-img {
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background-color: #80b435;
+	background-color: #f6931e;
 	opacity: 0;
 }
 
@@ -1696,7 +1712,7 @@ img.mfp-img {
 .pricing-tabs .nav-link:hover,
 .pricing-tabs .nav-link.active {
 	border: 0;
-	color: #80b435;
+	color: #f6931e;
 }
 
 .pricing-tabs .nav-item.show .nav-link:after, 
@@ -1739,7 +1755,7 @@ img.mfp-img {
 }
 
 .pricing-one h3 a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .pricing-one h3:after {
@@ -1759,7 +1775,7 @@ img.mfp-img {
 }
 
 .pricing-one .time {
-	color: #80b435;
+	color: #f6931e;
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -1788,7 +1804,7 @@ img.mfp-img {
 }
 
 .pricing .price.active>span {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .pricing .price h1 {
@@ -1819,7 +1835,7 @@ img.mfp-img {
 }
 
 .pricing .btn.btn-primary {
-	color: #80b435;
+	color: #f6931e;
 	margin-bottom: 30px;
 	border-color: transparent;
 	background-color: transparent;
@@ -1827,18 +1843,18 @@ img.mfp-img {
 
 .pricing .btn.btn-primary:hover {
 	color: #fff;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .pricing .price.active .btn.btn-primary  {
 	color: #fff;
-	background-color: #80b435;
-	border-color: #80b435;
+	background-color: #f6931e;
+	border-color: #f6931e;
 }
 
 .pricing .price.active .btn.btn-primary:hover {
 	background-color: transparent;
-	color: #80b435;
+	color: #f6931e;
 }
 
 /* pricing-two */
@@ -1866,12 +1882,12 @@ img.mfp-img {
 
 .pricing.pricing-three .btn.btn-primary:hover {
 	color: #fff;
-	background-color: #80b435;
-	border-color: #80b435;
+	background-color: #f6931e;
+	border-color: #f6931e;
 }
 
 .pricing.pricing-three .price.active .btn.btn-primary {
-	border-color: #80b435;
+	border-color: #f6931e;
 }
 
 .pricing.pricing-three .price.active .btn.btn-primary:hover {
@@ -1916,7 +1932,7 @@ img.mfp-img {
 
 .testimonial-title h1 {
 	font-size: 24px;
-	color: #80b435;
+	color: #f6931e;
 	font-weight: normal;
 	margin-bottom: 5px;
 }
@@ -2006,7 +2022,7 @@ img.mfp-img {
 }
 
 .user-account .btn.btn-primary:hover {
-	color: #80b435;
+	color: #f6931e;
 	background-color: #fff;
 }
 
@@ -2071,7 +2087,7 @@ img.mfp-img {
   margin: 4px 5px 4px 7px;
   border: none;
   border-radius: 0;
-  background: #80b435;
+  background: #f6931e;
   font-family: inherit;
   cursor: pointer;
 }
@@ -2087,7 +2103,7 @@ img.mfp-img {
 .ui-slider .ui-slider-handle {
   height: 20px;
   width: 20px;
-  background: #80b435;
+  background: #f6931e;
   border-radius: 100%;
   margin-top: -9px;
   margin-left: -10px;
@@ -2181,7 +2197,7 @@ img.mfp-img {
 }
 
 .product-details-info .price {
-	color: #80b435;
+	color: #f6931e;
 	font-size: 24px;
 	display: block;
 	margin-bottom: 15px;
@@ -2211,7 +2227,7 @@ img.mfp-img {
 	content: "\f067";
 	left: 0;
 	top: 0;
-	color: #80b435;
+	color: #f6931e;
 	font-size: 16px;
 	font-weight: normal;
 	font-family: "fontawesome";
@@ -2246,7 +2262,7 @@ img.mfp-img {
 }
 
 .quantity a:hover {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .quantity a i {
@@ -2280,11 +2296,11 @@ img.mfp-img {
 }
 
 .add-to-cart span:hover {
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .add-to-cart span a {
-	color: #80b435;
+	color: #f6931e;
 	display: block;
     padding: 12px 15px;
 }
@@ -2325,7 +2341,7 @@ img.mfp-img {
 	width: 100%;
 	height: 3px;
 	opacity: 0;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .description-tabs>li>.nav-link:hover:after,
@@ -2338,7 +2354,7 @@ img.mfp-img {
 .nav-tabs .nav-link.active {
 	background-color: transparent;
 	border: none;
-	color: #80b435;
+	color: #f6931e;
 }
 
 /* related-products */
@@ -2375,7 +2391,7 @@ img.mfp-img {
 
 .contact-info .icon {
 	font-size: 25px;
-	color: #80b435;
+	color: #f6931e;
 }
 
 .contact-info .media {
@@ -2420,7 +2436,7 @@ img.mfp-img {
 }
 
 .contact-form .form-control:focus {
-	border-color: #80b435;
+	border-color: #f6931e;
 }
 
 textarea.form-control {
@@ -2468,7 +2484,7 @@ textarea.form-control {
 	width: 100%;
 	height: 2px;
 	opacity: 0;
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .pagination>li>.page-numbers:before {
@@ -2496,7 +2512,7 @@ textarea.form-control {
 .pagination>li>.page-numbers:hover, 
 .pagination>li>span:focus, 
 .pagination>li>span:hover {
-	color: #80b435;
+	color: #f6931e;
 	background-color: transparent;
 }
 
@@ -2504,7 +2520,7 @@ textarea.form-control {
 
 .footer-widget h3 {
 	font-size: 18px;
-	color: #80b435;
+	color: #f6931e;
 	margin: 30px 0;
 }
 
@@ -2583,7 +2599,7 @@ textarea.form-control {
 }
 
 .footer-bottom .float-left a {
-	color: #80b435;
+	color: #f6931e;
 }
 
 .footer-bottom .select-option li{
@@ -2615,7 +2631,7 @@ textarea.form-control {
    border: none;
    font-size: 14px;
    font-weight: 700;
-   color: #80b435;
+   color: #f6931e;
 }
 
 .select-option span {
@@ -2721,7 +2737,7 @@ a, input, .carousel-indicators li,
 }
 
 .style-chooser-inner ul li.preset1 a {
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .style-chooser-inner ul li.preset2 a {

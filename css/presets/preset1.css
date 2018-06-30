@@ -37,11 +37,11 @@ a:focus,
 .comment-box .comment-meta a:hover,
 .user-account .btn.btn-primary:hover,
 .navbar-toggler-icon::before{
-    color: #80b435;
+    color: #f6931e;
 }
 
 .topbar-two path {
-	fill: #80b435;
+	fill: #f6931e;
 }
 
 .cart-number,
@@ -59,7 +59,7 @@ a:focus,
 .pricing .price.active .btn.btn-primary,
 .pricing .btn.btn-primary:hover,
 .pricing.pricing-three .btn.btn-primary:hover {
-	background-color: #80b435;
+	background-color: #f6931e;
 }
 
 .btn.btn-primary,
@@ -69,7 +69,7 @@ a:focus,
 .pricing.pricing-three .price.active .btn.btn-primary,
 .pricing.pricing-three .btn.btn-primary:hover,
 .navbar-toggler-right {
-	border-color: #80b435;
+	border-color: #f6931e;
 }
 
 .footer-widget .btn.btn-primary {

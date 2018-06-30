@@ -12,7 +12,7 @@
                                     <!--<h1 data-animation="animated fadeInDown">Bienvenido</h1>-->
                                     <h2 data-animation="animated fadeInDown">VENECHILE</h2>
                                     <p  data-animation="animated fadeInDown">Venta, exportación, secado y amacenaje de frutos secos</p>
-                                    <a href="#"   data-animation="animated fadeInDown" class="btn btn-primary">Ver Mas</a>
+                                    <a href="about.php"   data-animation="animated fadeInDown" class="btn btn-primary">Ver más</a>
                                 </div>                        
                             </div><!-- /.container -->
                         </div><!-- /.middle-content -->
@@ -58,30 +58,7 @@
             </div><!-- /.container -->                   
         </div><!-- /#home-slider --> 
 
-        <div class="tr-promotion">
-            <div class="container">
-                <div class="row tr-promo-center d-flex justify-content-around">
-                    <div class="col-md-5">
-                        <div class="promotion" style="background-image: url(images/bg/products.png);">
-                            <div class="promotion-info">
-                                <h1>  <span>Productos</span></h1>
-                                <p>Frescos y de calidad premium</p>
-                                <a href="#"   data-animation="animated fadeInDown" class="btn btn-primary">Ver</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="promotion" style="background-image: url(images/bg/shipping.png);">
-                            <div class="promotion-info">
-                                <h1>  <span>Exportaciones</span></h1>
-                                <p>Hacemos envíos a a todo el mundo</p>
-                                <a href="#"   data-animation="animated fadeInDown" class="btn btn-primary">Ver</a>
-                            </div>
-                        </div>
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </div><!-- /.tr-promotion --> 
+        
 
         <div class="tr-farmfood farmfood-one bg-image"  style="background-image: url(images/bg/farmfood.jpg);">
             <div class="container">
@@ -167,35 +144,6 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </div><!-- /.tr-farmfood --> 
-
-      
-        <div class="tr-brand">
-            <div class="container">
-                <div class="brand-slider">
-                    <div class="brand">
-                        <img src="images/brand/1.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/2.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/3.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/4.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/3.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/1.png" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="brand">
-                        <img src="images/brand/4.png" alt="Image" class="img-fluid">
-                    </div>
-                </div><!-- /.brand-slider -->
-            </div>
-        </div><!-- /.tr-brand -->  
 
 <?php
     include 'partials/footer.php';
